@@ -1,0 +1,5 @@
+{
+    "env": {
+        "JWT_KEY": "Iots_backend_with_nodeExpress"
+    }
+}

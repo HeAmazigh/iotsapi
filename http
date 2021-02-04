@@ -1,0 +1,18 @@
+POST Http://localhost:5000/api/users/singup
+Content-Type: application/json
+
+{
+    "firstname": "amazigh",
+    "lastname": "hettal",
+    "username": "amahetH",
+    "email": "amazighHcv@gmail.com",
+    "password": "amazigh1991"
+}
+####
+POST Http://localhost:5000/api/users/
+Content-Type: application/json
+
+{
+    "email": "amazighh@gmail.com",
+    "password": "amazigh1991"
+}
